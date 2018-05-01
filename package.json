@@ -1,0 +1,23 @@
+{
+  "name": "group-5-shopping-list-app",
+  "version": "1.0.0",
+  "description": "<h1> Welcome to our project repo </h1>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witseie-elen4010/Group-5-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/witseie-elen4010/Group-5-Lab/issues"
+  },
+  "homepage": "https://github.com/witseie-elen4010/Group-5-Lab#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

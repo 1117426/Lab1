@@ -1,0 +1,54 @@
+User Stories for Sprint 1 from 17/04/2018 - 24/04/2018
+----------------------------------------------------------------------------
+These stories are accessible at: https://trello.com/b/BVeptHuO/user-stories
+----------------------------------------------------------------------------
+
+
+As a user, I want to access the shopping list website so that I can use the website.
+Total Effort: 9
+
+	As a developer, I want to set up the Azure website so that the shopping list website can be hosted on the Azure server.
+
+	As a developer, I want to link the Github repository to the Azure portal.
+
+
+As a user, I want to navigate around the website tabs.  
+Total Effort: 3
+
+	As a developer, I want to set up a basic bootstrap framework so that the CSS is managed easily.
+
+	As a developer, I want to create a login and home tab so that each webpage can be navigated to.
+
+
+As a project overseer, I want to view the developer planning progress so that I know where their progress lies...
+Total Effort: 3
+ 
+	As a project overseer, I want to access the Trello overview so that progress can be monitored.
+
+
+As a user, I want to view a login page so that there is a base to login to the website.. 
+Total Effort: 6
+
+	As a developer, I want to set up a login bootstrap so that a login page can be developed.
+
+	
+
+
+As a user, I want to view the home page so that there is an entry point to the website... 
+Total Effort: 6
+
+	As a developer, I want set up a basic bootstrap so that there is a frame to develop with.  
+	
+	As a developer, I want a text edit area on the website so that text can be inputted onto a shopping list.
+
+
+
+
+
+
+
+
+
+
+
+
